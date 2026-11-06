@@ -1,0 +1,1 @@
+Wildcard queries let users search with incomplete terms. A star matches any run of characters, so retriev* finds retrieval, retrieve and retrieved. A permuterm index rotates every term so that a wildcard becomes a simple prefix lookup.

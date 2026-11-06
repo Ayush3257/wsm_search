@@ -1,0 +1,1 @@
+Stemming reduces words to a root form, so connection and connected share the stem connect. Stop words such as the and of are very frequent and are sometimes removed. This simple engine keeps all words so that phrase queries stay exact.

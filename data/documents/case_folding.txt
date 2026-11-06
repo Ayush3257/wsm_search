@@ -1,0 +1,1 @@
+Case folding converts every character to a single case so that Retrieval, RETRIEVAL and retrieval become one term. Normalization may also remove accents. Case folding keeps the vocabulary of the index small.

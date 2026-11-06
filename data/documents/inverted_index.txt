@@ -1,0 +1,1 @@
+An inverted index maps each term to a postings list of the documents that contain it. A positional index also stores word positions, which makes phrase queries such as information retrieval possible. Building the index is done once, before searching.

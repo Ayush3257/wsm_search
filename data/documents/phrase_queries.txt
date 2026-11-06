@@ -1,0 +1,1 @@
+A phrase query demands that words appear next to each other in the given order. The engine intersects the postings lists and then checks that the word positions are consecutive. Phrase search needs a positional inverted index.

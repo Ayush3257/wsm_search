@@ -1,0 +1,1 @@
+Tokenization is the process of splitting a stream of text into words called tokens. A tokenizer removes punctuation and records where each word starts. Good tokenization is the first step of every information retrieval pipeline.

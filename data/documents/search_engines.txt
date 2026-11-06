@@ -1,0 +1,1 @@
+A search engine crawls documents, builds an index and answers queries in milliseconds. Modern engines combine boolean filtering with ranking, but the inverted index remains the core data structure of every engine.

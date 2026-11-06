@@ -1,0 +1,1 @@
+Boolean retrieval answers queries written with AND, OR and NOT. The query is parsed into a tree and each operator becomes a set operation on postings lists: intersection, union and complement. Results are matched or not matched; there is no ranking.

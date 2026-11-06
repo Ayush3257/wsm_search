@@ -1,0 +1,1 @@
+A query language defines how users express information needs. Besides boolean operators it can offer parentheses for grouping, quotation marks for phrases and wildcards for partial words. Clear syntax errors help users correct a query.

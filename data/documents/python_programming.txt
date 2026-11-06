@@ -1,0 +1,1 @@
+Python is a popular language for text processing. Its standard library offers file reading, regular expressions and a graphical toolkit called Tkinter. Many students build a small search engine in Python as a first retrieval project.
